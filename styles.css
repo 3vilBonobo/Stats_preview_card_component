@@ -58,7 +58,7 @@ ul li span {
   border-radius: 10px;
 }
 .container .picture {
-  background: url(/images/image-header-mobile.jpg) no-repeat center/cover;
+  background: url(./images/image-header-mobile.jpg) no-repeat center/cover;
   background-color: var(--Soft-violet);
   background-blend-mode: overlay;
   height: 300px;
@@ -90,7 +90,7 @@ ul li span {
   }
 
   .container .picture {
-    background: url(/images/image-header-desktop.jpg) no-repeat center/cover;
+    background: url(./images/image-header-desktop.jpg) no-repeat center/cover;
     background-color: var(--Soft-violet);
     background-blend-mode: overlay;
     width: 100%;
